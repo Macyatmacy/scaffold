@@ -4,4 +4,4 @@ def add(x, y):
 # var = 
 x1 = 1
 y1 = 2
-print(f"This is the sum: {x1}, {y1}, {add(x1,y1)}")
+print("This is the sum: 1, 2, %s" % add(1,2))

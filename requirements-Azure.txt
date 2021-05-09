@@ -1,0 +1,6 @@
+boto3
+pylint
+pytest
+click
+ipython
+pytest-cov
