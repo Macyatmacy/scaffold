@@ -3,4 +3,5 @@ pylint
 pytest
 click
 ipython
+black
 pytest-cov
